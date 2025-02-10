@@ -3,12 +3,10 @@
 </h1>
 
 
-#### [Demo](https://valentine-day-puce-nine.vercel.app)
+#### [Live Demo](https://valentine-day-puce-nine.vercel.app)
 #### [See it Repo](https://github.com/Mohit-Rajak/ValentineDay.git)
 
-## Make your own version :computer:
-
-
+## Proposal for Your Crush...
 
 ## Contributing
 
