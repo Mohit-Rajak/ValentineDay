@@ -3,7 +3,7 @@
 </h1>
 
 
-#### Live Demo :- 
+#### Live Demo :- https://valentine-day-puce-nine.vercel.app
 #### [See it Repo](https://github.com/Mohit-Rajak/ValentineDay.git)
 
 ## Make your own version :computer:
@@ -16,6 +16,12 @@ If you have any idea to make it more interesting, feel free to send a Pull reque
 
 Stay happy and keep the people you care about happy. :)
 
-#### OwnerShip
+## Author
 
-  Mohit Rajak @2025
+Mohit Rajak \
+Email: contact.mohitrajak022004@gmail.com \
+LinkedIn : https://www.linkedin.com/in/Mohit-Rajak/
+
+## Thank You
+
+Thank you for exploring Love Proposal! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
